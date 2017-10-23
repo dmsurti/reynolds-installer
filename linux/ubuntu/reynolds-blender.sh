@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------- 
 # installer dir
 # ----------------------------------------------------------------------------- 
-# rm -rf ~/reynolds-blender
+rm -rf ~/reynolds-blender
 mkdir -p ~/reynolds-blender/tmp
 cd ~/reynolds-blender/tmp
 echo `pwd`
